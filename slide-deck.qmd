@@ -1,0 +1,36 @@
+---
+title: "Introduction to R and RStudio"
+subtitle: "Installation, Setup, and Basics"
+author: "Orville D. Hombrebueno"
+date: "January 28, 2026"
+institute: "Nueva Vizcaya State University"
+title-slide-attributes: 
+  data-background-image: "pics/rnvsu.jpeg"
+  data-background-size: 110%
+  data-background-opacity: "0.3"
+format:
+  revealjs:
+    css: styles.css
+    logo: pics/rcnvsu-nb.png
+execute:
+  echo: true
+  warning: false
+  message: false
+---
+
+## What is R?
+
+{{< video https://www.youtube.com/watch?v=XcBLEVknqvY width="115%" height="75%" >}}
+
+## What is RStudio?
+
+RStudio is an integrated development environment (IDE) for R and Python designed to help you be more productive in your daily data science work.
+
+[![](pics/engine.png)](https://moderndive.com/1-getting-started.html)
+
+## What are we going to do?
+
+1. Install [R](https://posit.co/download/rstudio-desktop/).
+2. Install [RStudio](https://posit.co/download/rstudio-desktop/).
+3. Lets get our hands dirty with R and [RStudio](https://docs.posit.co/ide/user/).👨🏽‍💻
+4. Resources in learning R.
