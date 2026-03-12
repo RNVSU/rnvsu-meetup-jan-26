@@ -12,11 +12,17 @@ format:
   revealjs:
     css: styles.css
     logo: pics/rcnvsu-nb.png
+    mainfont: "Cormorant Garamond"
 execute:
   echo: true
   warning: false
   message: false
 ---
+
+## Scan me for the slides!
+
+![<https://mild-orville.quarto.pub/introduction-to-r-and-rstudio/#/thank-you>](pics/qr.png){fig-align="center" width="200"}
+
 
 ## What is R?
 
@@ -24,13 +30,46 @@ execute:
 
 ## What is RStudio?
 
-RStudio is an integrated development environment (IDE) for R and Python designed to help you be more productive in your daily data science work.
+RStudio is an integrated development environment (IDE) for R and [Python](https://www.python.org) designed to help you be more productive in your daily data science work.
 
 [![](pics/engine.png)](https://moderndive.com/1-getting-started.html)
+
+## Why R and RStudio?
+
+1. Open-source and freely available.🔓
+2. Backed by strong global community.🌐
+3. Widely used in academia.🏫
+4. Enable dynamic documents with [Quarto](https://quarto.org).📑
+5. Support [reproducible research](https://englianhu.wordpress.com/wp-content/uploads/2016/01/reproducible-research-with-r-and-studio-2nd-edition.pdf) and teaching.🔭
 
 ## What are we going to do?
 
 1. Install [R](https://posit.co/download/rstudio-desktop/).
 2. Install [RStudio](https://posit.co/download/rstudio-desktop/).
 3. Lets get our hands dirty with R and [RStudio](https://docs.posit.co/ide/user/).👨🏽‍💻
-4. Resources in learning R.
+4. Install packages and other tools: [Quarto](https://quarto.org/docs/get-started/), `rmarkdown`, `tinytex` with `quarto install tinytex`, and [Git](https://git-scm.com).
+5. Resources in learning R.📚
+
+## Installing R and RStudio
+
+{{< video https://www.youtube.com/watch?v=TsnGd6p9oTk width="115%" height="75%" >}}
+
+## Installing `rmarkdown` and `tinytex`
+
+{{< video https://www.youtube.com/watch?v=OUWOx80eJqk width="115%" height="75%" >}}
+
+## Installing Quarto
+
+{{< video https://www.youtube.com/watch?v=JQ8WbI2_Rc4 width="115%" height="75%" >}}
+
+## Installing Git
+
+{{< video https://www.youtube.com/watch?v=TT8ktVp5j-k&t=3s width="115%" height="75%" >}}
+
+## Resources
+
+1. [Big Book of R](https://www.bigbookofr.com/010-start_here)
+2. [RUG](https://www.meetup.com/pro/r-user-groups/) or [RLadies](https://www.meetup.com/pro/rladies/) Meetups
+3. [fosstodon](https://fosstodon.org/@mildorville) {{< fa brands mastodon size=1.4xl >}}
+
+# Thank You!!! {background-image="pics/rnvsu.jpeg" background-opacity="0.3"}

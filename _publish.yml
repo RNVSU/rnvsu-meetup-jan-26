@@ -1,0 +1,4 @@
+- source: slide-deck.qmd
+  quarto-pub:
+    - id: 680e8545-de6d-41a2-aea8-824c53e1d91d
+      url: https://mild-orville.quarto.pub/introduction-to-r-and-rstudio
